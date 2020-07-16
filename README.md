@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Mayank Pratap 👋
 
-<!--
-**mps83/mps83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on an angular based project.
+- 🌱 I’m currently learning visual illustration.
+- 👯 I’m looking to collaborate on instagram.
+- 🤔 I’m looking for help with startup building.
+- 💬 Ask me about app development or any other tech stuff.
+- 📫 How to reach me: [twitter - @mayankpratap773](https://twitter.com/mayankpratap773) , 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I'm a developer with artistic skills. check my work at [Instagram - @art_bymayank](https://www.instagram.com/art_bymayank/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=mps83&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
