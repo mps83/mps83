@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an angular based project.
 - 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on instagram([Instagram - @art_bymayank]).
+- 👯 I’m looking to collaborate on instagram([Instagram - @art_bymayank](https://www.instagram.com/art_bymayank/)).
 - 🤔 I’m looking for help with startup building.
 - 💬 Ask me about app development or any other tech stuff.
 - 📫 How to reach me: [twitter - @mayankpratap773](https://twitter.com/mayankpratap773) , 
